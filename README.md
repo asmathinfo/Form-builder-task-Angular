@@ -3,7 +3,7 @@
 Here we go...
 
 <!-- ![Alt Text](app\src\assets\Tech_task.gif) -->
-<img src="app\src\assets\Tech_task.gif" alt="Alt Text" width="200"/>
+<img src="src\assets\Tech_task.gif" alt="Alt Text" width="200"/>
 
 
 
